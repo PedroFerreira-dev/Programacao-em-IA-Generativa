@@ -1,2 +1,4 @@
 # Programacao-em-IA-Generativa
 Curso de programação em IA Generativa pelo SENAI Guarulhos.
+
+Referência: https://prairie-heath-fb8.notion.site/Programa-o-com-IA-Generativa-2a4afcc37ceb80df9e47f886890f13a7
